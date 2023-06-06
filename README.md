@@ -60,8 +60,8 @@ G-align-Double and Fermat-Double (GRAN):
 python run_exp_double.py -c config/dataset_info
 ```
 ## Citing This Paper
-[K. Shayestehfard, D. Brooks, S. Ioannidis, "AlignGraph: A Group of
-Generative Models for Graphs", SDM, 2023]
+K. Shayestehfard, D. Brooks, S. Ioannidis, "AlignGraph: A Group of
+Generative Models for Graphs", SDM, 2023
 
 ## Acknowledgement
 This research was generously supported by the National Science Foundation (grants  IIS-1741197, CCF-1750539) and Google via GCP
