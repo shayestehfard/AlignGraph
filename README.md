@@ -1,6 +1,6 @@
 ## AlignGraph:
 
-A group of generative models that combine fast and efficient tractable graph alignment methods with a family of deep generative models and are thus invariant to node permutations [Paper](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch31).
+A group of generative models that combine fast and efficient tractable graph alignment methods with a family of deep generative models and are thus invariant to node permutations [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch31).
 
 
 ## Dependencies
@@ -60,7 +60,7 @@ G-align-Double and Fermat-Double (GRAN):
 python run_exp_double.py -c config/dataset_info
 ```
 
-##Acknowledgement
+## Acknowledgement
 The authors gratefully acknowledge support by the National Science Foundation (grants  IIS-1741197, CCF-1750539) and Google via GCP
 credit support.
 
